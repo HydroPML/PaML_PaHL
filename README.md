@@ -5,5 +5,6 @@ PaHL directly combines pure physics-based models, such as numerical methods, cli
 # Model ZOO
 ## Neural–numerical Hybrid Learning
 ## Neural–physics(hydrology) Hybrid Learning
-More information can be found in the [paper](https://arxiv.org/abs/2310.05227)  
-Continuously updating
+**Continuously updating**  
+More information can be found in the [PAPER](https://arxiv.org/abs/2310.05227)  
+
